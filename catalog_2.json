@@ -1,0 +1,30 @@
+{
+  "tops": [
+    {
+      "name": "stoneColdShirt",
+      "imageURL": "https://your-link-to-shirt-image.png",
+      "yOffset": -80,
+      "height": 150
+    },
+    {
+      "name": "jacket",
+      "imageURL": "https://your-link-to-jacket-image.png",
+      "yOffset": -80,
+      "height": 160
+    }
+  ],
+  "bottoms": [
+    {
+      "name": "jeans",
+      "imageURL": "https://your-link-to-jeans-image.png",
+      "yOffset": 120,
+      "height": 200
+    },
+    {
+      "name": "skirt",
+      "imageURL": "https://your-link-to-skirt-image.png",
+      "yOffset": 130,
+      "height": 180
+    }
+  ]
+}
